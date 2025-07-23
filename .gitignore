@@ -1,0 +1,9 @@
+# Ignorar carpetas __pycache__ en cualquier lugar
+__pycache__/
+**/__pycache__/
+
+# Ignorar archivos .pyc (opcional pero recomendado)
+*.pyc
+
+# Ignorar el entorno virtual (asumiendo que se llama env)
+env/
