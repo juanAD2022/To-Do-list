@@ -2,7 +2,9 @@
 Una aplicación web para gestionar tareas, construida con React en el frontend y Django como backend. Permite crear, listar y guardar tareas con nombre, descripción y estado.
 
 🚀 Tecnologías utilizadas
+
   🔧 Backend
+  
     Django 4.x
     
     Django REST Framework
@@ -10,6 +12,7 @@ Una aplicación web para gestionar tareas, construida con React en el frontend y
     SQLite (puede cambiarse a PostgreSQL fácilmente)
 
   🎨 Frontend
+  
     React 18+
     
     Vite
@@ -22,7 +25,9 @@ Una aplicación web para gestionar tareas, construida con React en el frontend y
 
     Context API
 🖼️ Características principales
+
   Crear tareas con:
+  
     Nombre (obligatorio)
     
     Descripción (obligatoria)
