@@ -43,6 +43,7 @@ Una aplicación web para gestionar tareas, construida con React en el frontend y
   Comunicación con backend mediante fetch
 
 📁 Estructura del proyecto
+
   project/
   ├── backend/
   │   └── manage.py, settings.py, api/, etc.
