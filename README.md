@@ -57,7 +57,6 @@ Una aplicación web para gestionar tareas, construida con React en el frontend y
   │   ├── public/
   │   └── index.html
 
-👨‍💻 Autor
+👨‍💻 Autor Juan Carlos Alonso
 
-  Juan Carlos Alonso
   GitHub: @juanAD2022
